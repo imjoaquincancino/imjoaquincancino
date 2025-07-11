@@ -4,14 +4,14 @@
 Actualmente estoy trabajando en mi proyecto llamado "ResTable", que puedes encontrar haciendo [click aquí](https://restable.app). <br />
 También, estoy trabajando en mi Agencia de Marketing [Puerto Roma](https://puertoroma.cl)
 
-## [ResTable](https://restable.app)
+## [ResTable](https://restable.app) 🍳
 | **Software web de Gestión para restaurantes, bares, cafés, food trucks y más.**
 > * Gestión Inteligente de Cartas Digitales QR (impulsado por IA)
 > * Sistema de fidelización de clientes (con juegos divertidos)
 > * Gestión de Inventario
 > * Facturas eléctronicas
 
-## [Puerto Roma](https://puertoroma.cl)
+## [Puerto Roma](https://puertoroma.cl) 📈
 | **Agencia de Marketing ubicada en Ensenada y Puerto Varas en la Región de Los Lagos.**
 > * Diseño Web
 > * Diseño Gráfico
