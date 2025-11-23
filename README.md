@@ -5,7 +5,8 @@ Actualmente estoy trabajando en una plataforma de gestión para negocios de rest
 También, soy director y programador en mi [Agencia de Marketing SCA](https://agenciasca.cl)
 
 ## [ResTable](https://restable.cl) 🍳
-| **Plataforma de Gestión para restaurantes, bares, cafés, food trucks y más.**
+[<img width="792" height="198" alt="ResTable Brand Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restable.cl)
+### **Plataforma de Gestión para restaurantes, bares, cafés, food trucks y más.**
 > * Gestión Inteligente de Cartas Digitales QR (impulsado por IA)
 > * Sistema de pedidos en tiempo real
 > * KDS (Sistema de visualización en cocina)
@@ -14,7 +15,7 @@ También, soy director y programador en mi [Agencia de Marketing SCA](https://ag
 > * Y más...
 
 ## [Agencia SCA](https://agenciasca.cl) 📈
-| **Agencia de Marketing ubicada en Ensenada y Puerto Varas en la Región de Los Lagos.**
+### **Agencia de Marketing ubicada en Ensenada y Puerto Varas en la Región de Los Lagos.**
 > * Diseño Web
 > * Diseño Gráfico
 > * Fotografía
