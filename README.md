@@ -2,14 +2,16 @@
 
 ## | "Soy un joven amante del emprendimiento y la innovación."
 Actualmente estoy trabajando en una plataforma de gestión para negocios de restauración (restaurantes, cafés, bares y más) llamado "ResTable", que puedes encontrar haciendo [click aquí](https://restable.cl). <br />
-También, estoy trabajando en mi Agencia de Marketing [SCA](https://agenciasca.cl)
+También, soy director y programador en mi [Agencia de Marketing SCA](https://agenciasca.cl)
 
 ## [ResTable](https://restable.cl) 🍳
-| **Software Gastronómico para restaurantes, bares, cafés, food trucks y más.**
+| **Plataforma de Gestión para restaurantes, bares, cafés, food trucks y más.**
 > * Gestión Inteligente de Cartas Digitales QR (impulsado por IA)
-> * Sistema de fidelización de clientes (con juegos divertidos)
+> * Sistema de pedidos en tiempo real
+> * KDS (Sistema de visualización en cocina)
 > * Gestión de Inventario
 > * Facturas eléctronicas
+> * Y más...
 
 ## [Agencia SCA](https://agenciasca.cl) 📈
 | **Agencia de Marketing ubicada en Ensenada y Puerto Varas en la Región de Los Lagos.**
@@ -20,4 +22,4 @@ También, estoy trabajando en mi Agencia de Marketing [SCA](https://agenciasca.c
 > * Papelería e Imprenta
 
 ---
-Si quieres trabajar conmigo en alguno de mis proyectos, o tienes alguna idea en mente, [enviame un correo](mailto:joaquincancino.dev@gmail.com). :)
+Si quieres trabajar conmigo en alguno de mis proyectos, o tienes alguna idea en mente, [enviame un correo](mailto:cancinojoaquin12@gmail.com). :)
