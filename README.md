@@ -1,7 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F7C80F&width=435&lines=Hola%2C+soy+Joaqu%C3%ADn+%3A);Hi%2C+I'm+Joaquin+%3A);Hallo%2C+ich+bin+Joaquin+%3A)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=FFFFFF&width=435&lines=Hola%2C+soy+Joaqu%C3%ADn+%3A);Hi%2C+I'm+Joaquin+%3A);Hallo%2C+ich+bin+Joaquin+%3A)" alt="Typing SVG" />
 
-## | "Soy un joven amante del emprendimiento y la innovación."
-Actualmente estoy trabajando en una plataforma de gestión para negocios de restauración (restaurantes, cafés, bares y más) llamado "ResTable", que puedes encontrar haciendo [click aquí](https://restable.cl). <br />
+Tengo 18 años, me gusta jugar ajedrez y actualmente estoy trabajando en una plataforma de gestión para negocios de restauración (restaurantes, cafés, bares y más) llamado "ResTable", que puedes encontrar haciendo [click aquí](https://restable.cl). <br />
 También, soy director y programador en mi [Agencia de Marketing SCA](https://agenciasca.cl)
 
 ## [ResTable](https://restable.cl) 🍳
