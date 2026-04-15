@@ -4,7 +4,7 @@ Tengo 18 años, me gusta jugar ajedrez y actualmente estoy trabajando en una pla
 También, soy Director Ejecutivo en [Cancino Company](https://cancinocompany.com)
 
 ## [ResTable](https://restable.app) 🍳
-[<img width="792" height="198" alt="ResTable Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restable.cl)
+[<img width="592" height="198" alt="ResTable Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restable.app)
 ### **Plataforma social para restaurantes, bares, cafés, food trucks y más.**
 > * POS inteligente (impulsado por IA)
 > * Sistema de pedidos en tiempo real
@@ -24,4 +24,4 @@ También, soy Director Ejecutivo en [Cancino Company](https://cancinocompany.com
 > * Y más
 
 ---
-Si quieres trabajar conmigo en alguno de mis proyectos, o tienes alguna idea en mente, [enviame un correo](mailto:cancinojoaquin12@gmail.com). :)
+Si quieres trabajar conmigo en alguno de mis proyectos, o tienes alguna idea en mente, [enviame un correo](mailto:joaquin@cancinocompany.com). :)
