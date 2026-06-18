@@ -3,7 +3,7 @@
 Me gusta resolver problemas usando principios de ingeniería y física.
 
 ## [ResTable](https://restableapp.com) 🍳
-[<img width="592" height="198" alt="ResTable Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restableapp.com)
+[<img width="698" height="198" alt="ResTable Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restableapp.com)
 ### **Plataforma social para restaurantes, bares, cafés, food trucks y más.**
 > * POS inteligente (impulsado por IA)
 > * Sistema de pedidos en tiempo real
