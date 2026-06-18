@@ -3,7 +3,7 @@
 Mis proyectos:
 
 ## [ResTable](https://restableapp.com) 🍳
-[<img width="698" height="198" alt="ResTable Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restableapp.com)
+[<img width="728" height="198" alt="ResTable Banner" src="https://github.com/user-attachments/assets/9fb6e94d-2bc6-433a-87d3-f43a193a01f6" />](https://restableapp.com)
 ### **Plataforma que combina un software operativo para restaurantes con un marketplace que conecta locales gastronómicos con comensales.**
 > * POS
 > * Sistema de pedidos en tiempo real
